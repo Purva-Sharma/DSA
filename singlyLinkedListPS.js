@@ -9,7 +9,7 @@ removeLast()
 remove(Node<T> node)
 removeAt(index)
 indexOf(obj) 
-display()*/
+display()*/ 
 
 class SinglyLinkedList {
     head;
